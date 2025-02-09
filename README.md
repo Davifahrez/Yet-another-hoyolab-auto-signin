@@ -1,4 +1,4 @@
-# <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50" align="left"> <center>Yet Another HoYoLAB Auto Sign-in Script </center> <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50" align="right">
+# <div align="center"><img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50"> <h1>Yet Another HoYoLAB Auto Sign-in Script</h1> <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50"> </div>
 
 <br>
 
