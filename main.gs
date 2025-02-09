@@ -3,8 +3,8 @@
  * Handles multiple game sign-ins and Discord notifications
  * 
  * Original by https://github.com/canaria3406/hoyolab-auto-sign
- * Simplified by Davifahrez
- */
+ * Enhanced and expanded by Davi Fahreza
+*/
 
 /** ===================== USER CONFIGURATION ===================== **/
 
