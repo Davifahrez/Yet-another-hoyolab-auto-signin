@@ -38,7 +38,7 @@ This script is designed to run on **Google Apps Script**, a free and easy-to-use
 
 2.  **Copy and Paste the Code:**
 
-      - Copy the entire code provided in this repository (the `.gs` file).
+      - Copy the entire <a href="https://raw.githubusercontent.com/Davifahrez/Yet-another-hoyolab-auto-signin/refs/heads/main/main.gs">code</a> provided in this repository (the `.gs` file).
       - Paste the code into the Google Apps Script editor, replacing the default `function myFunction() { ... }` code.
 
 ### 🛠️ Configuration
