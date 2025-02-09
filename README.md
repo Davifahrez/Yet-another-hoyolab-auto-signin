@@ -1,4 +1,4 @@
-# <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50" align="left">  Yet Another HoYoLAB Auto Sign-in Script <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50" align="right">
+# <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50" align="left"> <center>Yet Another HoYoLAB Auto Sign-in Script </center> <img src="https://media1.tenor.com/m/VtFUW-durpoAAAAd/kururin-kuru-kuru.gif" width="50" align="right">
 
 <br>
 
@@ -301,5 +301,3 @@ This script is provided for educational and personal use only. Use it at your ow
   - **Terms of Service:**  Be aware of Hoyoverse's terms of service regarding automation. Using this script might technically violate their terms, although the risk is generally considered low for personal use.
 
 **Use this script responsibly and enjoy your automatically claimed daily rewards\!** 😊
-
-```
